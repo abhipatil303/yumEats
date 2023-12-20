@@ -1,18 +1,15 @@
 {
   "files": {
     "main.css": "/yumEats/static/css/main.9f161d8c.css",
-    "main.js": "/yumEats/static/js/main.6056ce31.js",
+    "main.js": "/yumEats/static/js/main.39658b18.js",
     "static/js/787.d5fa4d18.chunk.js": "/yumEats/static/js/787.d5fa4d18.chunk.js",
-    "static/media/pizza_osjb4f.jpg": "/yumEats/static/media/pizza_osjb4f.73522ce9a065823e66c8.jpg",
-    "static/media/burger_emxbtv.jpg": "/yumEats/static/media/burger_emxbtv.9d0255a2dad8c7ef744c.jpg",
-    "static/media/ric_a4ewxo.jpg": "/yumEats/static/media/ric_a4ewxo.a2c09d6bc44f33d5a8a3.jpg",
     "index.html": "/yumEats/index.html",
     "main.9f161d8c.css.map": "/yumEats/static/css/main.9f161d8c.css.map",
-    "main.6056ce31.js.map": "/yumEats/static/js/main.6056ce31.js.map",
+    "main.39658b18.js.map": "/yumEats/static/js/main.39658b18.js.map",
     "787.d5fa4d18.chunk.js.map": "/yumEats/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f161d8c.css",
-    "static/js/main.6056ce31.js"
+    "static/js/main.39658b18.js"
   ]
 }
